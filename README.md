@@ -5,7 +5,7 @@ https://drive.google.com/file/d/16AOUyB-vk_gt9V1Q2sRZdGw-CpN-jO6C/view?usp=shari
 # My Game
 Tampilan Beranda Game:
 ![Screenshot Game](103930.png)
-![Screenshot Game](Screenshot%202026-06-05%20104048.png)
+![Screenshot Game](104241.png)
 ![Screenshot Game](104420.png)
 
 Tampilan Level 1:
