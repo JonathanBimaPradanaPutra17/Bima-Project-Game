@@ -16,3 +16,6 @@ Tampilan Level 2:
 
 Tampilan Level 3:
 ![Screenshot Game](104241.png)
+
+Tampilan Finish :
+![Screenshot Game](104522.png)
