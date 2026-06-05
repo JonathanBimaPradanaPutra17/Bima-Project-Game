@@ -5,6 +5,7 @@ https://drive.google.com/file/d/16AOUyB-vk_gt9V1Q2sRZdGw-CpN-jO6C/view?usp=shari
 # My Game
 
 ![Screenshot Game](103930.png)
+Bagian Beranda
 ![Screenshot Game](104048.png)
 ![Screenshot Game](104151.png)
 ![Screenshot Game](104241.png)
