@@ -7,7 +7,6 @@ Tampilan Beranda Game:
 ![Screenshot Game](103930.png)
 ![Screenshot Game](104420.png)
 
-
 Tampilan Level 1:
 ![Screenshot Game](104048.png)
 
